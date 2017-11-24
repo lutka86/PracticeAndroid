@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_top">16dp</dimen>
+    <dimen name="padding_bottom">8dp</dimen>
+    <dimen name="font_size_team">16sp</dimen>
+    <dimen name="padding_bottom_0">5dp</dimen>
+    <dimen name="font_size_0">35sp</dimen>
+    <dimen name="margin_button">24dp</dimen>
+</resources>
